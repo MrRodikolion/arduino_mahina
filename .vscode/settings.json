@@ -1,0 +1,11 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.default.includePath": [
+        "${workspaceRoot}",
+        "C:/Users/Mr.Rodikolion/Documents/Arduino/libraries/**",
+        "C:\\Users\\Mr.Rodikolion\\AppData\\Local\\Arduino15\\libraries\\**"
+    ],
+    "files.associations": {
+        "new": "cpp"
+    },
+}
